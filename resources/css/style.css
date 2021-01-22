@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.link-text {
+  font-size: 16px;
+  cursor: pointer;
+  color: aquamarine;
+}
+
+.link {
+  text-decoration: underline;
+}
+
+.section-1 p, footer p {
+  font-size: 21px;
+  color: gray;
+}
+
+.img-1 {
+  margin-bottom: 25px;
+}
+
+footer {
+  float: right;
+}
+
+
+
